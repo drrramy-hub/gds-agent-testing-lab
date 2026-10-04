@@ -1,0 +1,8 @@
+{
+  "url": "http://127.0.0.1:8090/index.html",
+  "task": "Use the fictional postcode to request a recycling collection slot. Complete the demo request.",
+  "success_text": "Demo request recorded",
+  "test_data": {"postcode": "ZZ1 1ZZ"},
+  "max_steps": 12,
+  "max_seconds": 300
+}
